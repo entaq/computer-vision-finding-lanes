@@ -48,3 +48,5 @@ Due to being behind and a bit short on time, didn't get a chance to play with th
 ### 3. Suggest possible improvements to your pipeline
 
 Just like how there is a bottom extrapolation I do... I should do a top extrapolation as well. The two lines should never intersect. 
+
+Need to review [this discussion](https://discussions.udacity.com/t/have-trouble-in-improve-draw-line-function/398760/11) thread to impove further on the hough parameters. 
