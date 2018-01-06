@@ -30,11 +30,11 @@ In order to draw a single line on the left and right lanes, I modified the `draw
 * Ultimately, drawing exactly two lines per image - one for left and one for right
 
 Overall, this gets me reasonable results in most siutations like so - 
-![good fit][whiteCarLaneSwitch.jpg]
+![good fit][test_images_output/whiteCarLaneSwitch.jpg]
 
 However plenty of other cases where it seems I need to tweak the parameters much more :( Like below - 
 
-![bad fit][solidWhiteRight.jpg]
+![bad fit][test_images_output/solidWhiteRight.jpg]
 
 
 
